@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 
-public class Swing extends JPanel {
+public class main extends JPanel {
 
     public static void main(String[] args) {
         JFrame frame = new JFrame();
