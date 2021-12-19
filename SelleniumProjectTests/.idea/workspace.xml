@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d5d1f80-bad4-4b5d-a92d-9106b415eb56" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="22V9PSalxOz9MmJP2cqHV75Idyd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Łukasz\Desktop\Jaz_Repo\JAZ_st_2021_gr3\lab08\demo\SelleniumProject\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GovNewOrderCalc">
+    <configuration name="FuelCalculatorTest.setCalculationParamsAndCalculateFuel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SelleniumProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FuelCalculatorTest" />
+      <option name="METHOD_NAME" value="setCalculationParamsAndCalculateFuel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GovNewOrderCalc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SelleniumProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GovNewOrderCalc" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GovNewOrderCalc.assertEmployeeSalaryInPkk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SelleniumProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GovNewOrderCalc" />
+      <option name="METHOD_NAME" value="assertEmployeeSalaryInPkk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GovNewOrderCalc.assertEmployeeSalaryWithoutPkk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SelleniumProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GovNewOrderCalc" />
+      <option name="METHOD_NAME" value="assertEmployeeSalaryWithoutPkk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GovNewOrderCalc" />
+        <item itemvalue="JUnit.GovNewOrderCalc.assertEmployeeSalaryWithoutPkk" />
+        <item itemvalue="JUnit.GovNewOrderCalc.assertEmployeeSalaryInPkk" />
+        <item itemvalue="JUnit.FuelCalculatorTest.setCalculationParamsAndCalculateFuel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d5d1f80-bad4-4b5d-a92d-9106b415eb56" name="Changes" comment="" />
+      <created>1639911867476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639911867476</updated>
+    </task>
+    <servers />
+  </component>
+</project>
