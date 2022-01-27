@@ -15,6 +15,6 @@ public class Card {
         return symbol;
     }
     public void displayCardInfo(){
-        System.out.println("Your first card :"+ value + " of "+ symbol);
+        System.out.println("Your card :"+ value + " of "+ symbol);
     }
 }

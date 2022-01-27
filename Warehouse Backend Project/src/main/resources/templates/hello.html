@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="src/main/resources/static/styleSheet.css">
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333;
+        }
+
+        li {
+            float: left;
+        }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        li a:hover {
+            background-color: #111;
+        }
+        h1{
+            color: azure;
+            text-align: center;
+            font-weight: bold;
+        }
+        a{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+        }
+    </style>
+</head>
+<body style="background-color: #242424">
+
+    <ul>
+        <li><a href="/search">Search</a></li>
+        <li><a href="/add">Add</a></li>
+        <li><a href="/all">All</a></li>
+        <li><a href="/home">Home</a></li>
+    </ul>
+
+<h1>Welcome in our warehouse</h1>
+    <a href="/all">
+        <img src="../static/warehouse.jpg" width="800" height="800" th:src="@{/warehouse.jpg}"/>
+    </a>
+</body>
+</html>

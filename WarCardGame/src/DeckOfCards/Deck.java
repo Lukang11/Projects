@@ -5,13 +5,12 @@ import java.lang.Math;
 import java.util.stream.Stream;
 
 public class Deck {
-    private final static int DECK_SIZE = 52;
-    ArrayList<Card> deck = new ArrayList<>();
+    LinkedList<Card> deck = new LinkedList<>();
 
-    public ArrayList<Card> getDeck() {
+    public LinkedList<Card> getDeck() {
         return deck;
     }
-    public ArrayList<Card> generateDeckOfCards(){
+    public LinkedList<Card> generateDeckOfCards(){
         for (Symbol symbol :Symbol.values())
             for (Value value : Value.values()) {
                 this.deck.add(new Card(value,symbol));
@@ -24,7 +23,7 @@ public class Deck {
                 .forEach(card1 -> System.out.println(card1.getValue()+" of "+card1.getSymbol()));
     }
 
-    public ArrayList<Card> shuffleDeck(){
+    public LinkedList<Card> shuffleDeck(){
         Collections.shuffle(deck);
         return deck;
     }
